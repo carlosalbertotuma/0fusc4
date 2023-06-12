@@ -25,6 +25,8 @@ import os
 import sys
 import subprocess
 
+# conexao do netcat
+
 ips = '192.168.100.22'  
 p = 4445
 
