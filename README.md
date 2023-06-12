@@ -11,7 +11,7 @@ Dessa forma, o 0fusc4 possibilita a execução de um shell reverso por meio de u
 
 Use:
 
-gitclone 
+gitclone https://github.com/carlosalbertotuma/0fusc4.git
 
 Servidor Windows
 - curl -O "http://example.com/0fusc4.ps1"
